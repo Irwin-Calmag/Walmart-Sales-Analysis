@@ -24,27 +24,30 @@ The dataset consists of the following columns:
 8.	Unemployment: Unemployment rate in the region.
 
 # Executive Summary:
-Overview of findings
+# Overview of findings
 After peaking in 2010 (2.29bn), the company sales have continued to peak with significant increase in 2011 (2.45bn), but there is a significant drop in 2012 (2.00bn). Key performance indicators have all shown the year-over-year sales changes. While this decline can be broadly attributed to struggling local economy or high unemployment rates that reduces purchasing power, the following section will explore additional contributing factors and highlight key opportunity areas for improvement.
 Below is the overview page from the powerBI dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded here.
-(Screenshot of dashboard)
+![Overview](https://github.com/user-attachments/assets/fd3f9a4f-b987-40d8-bcca-dc25b283be8b)
 
-Sales Trends:
+# Sales Trends:
 Holiday impact- Sales fluctuate significantly across weeks, with noticeable spikes during holiday periods, among holidays, Christmas and Thanksgiving have the highest positive impact, driven by increased consumer spending on these specific holidays, while others show moderate effects.
 Beginning in February of 2010 there was an alternating increase and decrease trend of weekly sales with September (177.3m) being the month with the least sales of the year.
 Among the years there was a significant increase in weekly sales between the year 2010 and 2011 with a YoY of 6.96% and a significant decrease in sales in the year 2012 (-18.3%), this could be attributed to the highest unemployment rate. 
-(Screenshot-table of sales)
+![Sales trend](https://github.com/user-attachments/assets/d5de0428-725d-4ade-9e0b-5bd4a17cae68)
 
-Store Performance:
+
+# Store Performance:
 Over the period of these three years store 20 executed the highest average weekly sales, this could be attributed to their easy accessibility like being located near major roads, highways, or public transport hubs, which increases visits.
 While Store 33 showed consistent underperformance, potentially due to regional economic factors and ineffective promotional strategies that don’t align with customer preferences, or mismatch with local community’s needs and culture.
-(Screenshot-table of sales of store performance)
+![store performance](https://github.com/user-attachments/assets/16023199-44df-4f9d-a2fd-29419f544a45)
 
-Economic Influences:
+
+# Economic Influences:
 -CPI showed no significant impact on sales during holiday weeks and non-holiday periods.
 This suggests that CPI alone does not strongly influence sales trends, the lack of correlation with CPI does not mean CPI has no influence, it might act indirectly or in combination with other variables.
 Other variables in the dataset, like fuel price, unemployment rate, or temperature, may have a stronger impact on sales.
-(Screenshot-table of sales of temperature and sales)
+![econ factors](https://github.com/user-attachments/assets/91202829-6e82-4838-b5ee-caf96f3e4594)
+
 
 # Recommendations: 
 Abt 5 key points- [WHY DOES IT MATTER THAT YOU LOOKED AT WHAT YOU LOOKED AT]-9:57
