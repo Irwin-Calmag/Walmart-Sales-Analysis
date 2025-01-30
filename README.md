@@ -1,16 +1,16 @@
 # Walmart Sales Analysis
 # Project Backgroung
 Walmart is an American multinational retail corporation that operates a chain of hypermarkets(supermarkets), discount department stores, and grocery stores in the United States and 23 other countries. It is headquartered in Bentonville, Arkansa.
-The store has significant amount of data on its weekly sales, CPI(consumer price index), unemployment, temperature and holidays. This project thoroughly analyzes and synthesizes this data in order to uncover critical insights that will improve Walmart's commercial success.
-Insights and recommendations are provided on the following key areas:
-1. Sales trends: Analyze performance differences between holiday and non-holiday weeks and yearly sales trends.
-2. Store performance: Determine the best-performing and worst-performing stores.
-3. Economic influence: Explore relationships between sales, economic indicators(CPI,unemployment), and external factors(temperature,fuel price)during holiday and non-holiday weeks.
-The excel queries utilized to clean, categorize, and prepare data for the dashboard can be found here.
-An interactive power bi dashboard can be downloaded here.
-Targeted SQL queries regarding various business questions can be found here.
-The SQL queries utilized to inspect and perform quality checks can be found here.
+The store has significant amount of data on its weekly sales, CPI(consumer price index), unemployment rate, temperature and holidays. This project thoroughly analyzes and synthesizes this data in order to uncover critical insights that will improve Walmart's commercial success.
 
+Insights and recommendations are provided on the following key areas:
+
+1. Sales Trends Analysis: Evaluation of performance differences between holiday and non-holiday weeks and yearly sales trends.
+2. Store Level Performance: Determine the best-performing and worst-performing stores and also top 10 best and worst performing stores. 
+3. Economic Influence: Explore relationships between sales, economic indicators(CPI,unemployment), and external factors(temperature,fuel price)during holiday and non-holiday weeks.
+The excel queries utilized to clean, categorize, and prepare data for the dashboard can be found here.
+
+An interactive power bi dashboard can be downloaded here.
 # Data Strucrure & Initial Checks 
 Include an ERD (Entity relationship diagram)- can be created using CANVA 
 The dataset consists of the following columns:
@@ -26,13 +26,18 @@ The dataset consists of the following columns:
 # Executive Summary:
 # Overview of findings
 After peaking in 2010 (2.29bn), the company sales have continued to peak with significant increase in 2011 (2.45bn), but there is a significant drop in 2012 (2.00bn). Key performance indicators have all shown the year-over-year sales changes. While this decline can be broadly attributed to struggling local economy or high unemployment rates that reduces purchasing power, the following section will explore additional contributing factors and highlight key opportunity areas for improvement.
+
 Below is the overview page from the powerBI dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded here.
 ![Overview](https://github.com/user-attachments/assets/fd3f9a4f-b987-40d8-bcca-dc25b283be8b)
 
 # Sales Trends:
-Holiday impact- Sales fluctuate significantly across weeks, with noticeable spikes during holiday periods, among holidays, Christmas and Thanksgiving have the highest positive impact, driven by increased consumer spending on these specific holidays, while others show moderate effects.
-Beginning in February of 2010 there was an alternating increase and decrease trend of weekly sales with September (177.3m) being the month with the least sales of the year.
-Among the years there was a significant increase in weekly sales between the year 2010 and 2011 with a YoY of 6.96% and a significant decrease in sales in the year 2012 (-18.3%), this could be attributed to the highest unemployment rate. 
+- The company sales showed a seasonal trend where the sales sees a noticable spike in December, December 2010 (288.76M) and December 2011 (288.08M) following normal holiday seasonality patterns, driven by 
+  increased consumer spending, while the month of January registered the least sales, January 2011 (163.70M) and January 2012 (168.89M) mostly due to consumers cut back on spending after 
+  overspending during the holidays. 
+- Beginning in February of 2010 there was an alternating increase and decrease trend of weekly sales with September (177.27m) being the month with the least sales of the year, mostly due to lack of major holidays that 
+  drive high consumer spending.
+- Among the years there was a significant increase in weekly sales between the year 2010 and 2011 with a YoY of 6.96% and a significant decrease in sales in the year 2012 (-18.3%), this could be attributed to the highest 
+  unemployment rate. 
 ![Sales trend](https://github.com/user-attachments/assets/d5de0428-725d-4ade-9e0b-5bd4a17cae68)
 
 
