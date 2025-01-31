@@ -5,23 +5,23 @@ The store has significant amount of data on its weekly sales, CPI(consumer price
 
 Insights and recommendations are provided on the following key areas:
 
-1. Sales Trends Analysis: Evaluation of performance differences between holiday and non-holiday weeks and yearly sales trends.
-2. Store Level Performance: Determine the best-performing and worst-performing stores and also top 10 best and worst performing stores. 
-3. Economic Influence: Explore relationships between sales, economic indicators(CPI,unemployment), and external factors(temperature,fuel price)during holiday and non-holiday weeks.
+- Sales Trends Analysis: Evaluation of performance differences between holiday and non-holiday weeks and yearly sales trends.
+- Store Level Performance: Determine the best-performing and worst-performing stores and also top 10 best and worst performing stores. 
+- Economic Influence: Explore relationships between sales, economic indicators(CPI,unemployment), and external factors(temperature,fuel price)during holiday and non-holiday weeks.
 The excel queries utilized to clean, categorize, and prepare data for the dashboard can be found here.
 
 An interactive power bi dashboard can be downloaded here.
 # Data Strucrure & Initial Checks 
 Include an ERD (Entity relationship diagram)- can be created using CANVA 
 The dataset consists of the following columns:
-1.	Store: Unique identifier for each Walmart store.
-2.	Date: The week ending date for the recorded sales.
-3.	Weekly_Sales: Total sales for the week at a given store.
-4.	Holiday_Flag: Binary indicator (1 if the week includes a major holiday, 0 otherwise).
-5.	Temperature: Average temperature for the week.
-6.	Fuel_Price: Weekly average fuel price in the region.
-7.	CPI: Consumer Price Index, reflecting inflation trends.
-8.	Unemployment: Unemployment rate in the region.
+-	Store: Unique identifier for each Walmart store.
+-	Date: The week ending date for the recorded sales.
+-	Weekly_Sales: Total sales for the week at a given store.
+-	Holiday_Flag: Binary indicator (1 if the week includes a major holiday, 0 otherwise).
+-	Temperature: Average temperature for the week.
+-	Fuel_Price: Weekly average fuel price in the region.
+-	CPI: Consumer Price Index, reflecting inflation trends.
+-	Unemployment: Unemployment rate in the region.
 
 # Executive Summary:
 # Overview of findings
@@ -59,11 +59,14 @@ Below is the overview page from the powerBI dashboard and more examples are incl
 
 # Recommendations: 
 
-Based on the uncovered insights, the following are actionable recommendations to improve sales performance, optimize resources, and align strategies with consumer behavior:
-•	Introduce mid-week or weekend sales and also launching of aggressive marketing campaigns during non-holidays to capitalize on increased consumer spending.
-•	With store 33 being the worst performing stores, there can be an introduction of attractive deals like location-specific promotions or loyalty programs to boost foot traffic and increase customer retention in the bottom 10 underperforming stores.
-•	Despite a correlation of zero between CPI and holiday and non-holiday sales a multivariate analysis can be done including all factors (CPI, fuel price, unemployment rate, temperature) as predictors in a regression model to see how they collectively influence sales.
-•	Offer online shopping incentives or delivery discounts during extreme weather conditions to compensate for reduced in-store traffic and also invest in improving the online shopping experience (e.g., user-friendly website, mobile app).
+ Based on the uncovered insights, the following are actionable recommendations to improve sales performance, optimize resources, and align strategies with consumer behavior:
+ - Introduce mid-week or weekend sales and also launching of aggressive marketing campaigns during non-holidays to capitalize on increased consumer spending.
+ - With store 33 being the worst performing stores, there can be an introduction of attractive deals like location-specific promotions or loyalty programs to boost foot traffic and increase customer retention in the 
+   bottom 10 underperforming stores.
+ - Despite a correlation of zero between CPI and holiday and non-holiday sales a multivariate analysis can be done including all factors (CPI, fuel price, unemployment rate, temperature) as predictors in a regression 
+   model to see how they collectively influence sales.
+ - Offer online shopping incentives or delivery discounts during extreme weather conditions to compensate for reduced in-store traffic and also invest in improving the online shopping experience (e.g., user-friendly 
+   website, mobile app).
 
 
 
