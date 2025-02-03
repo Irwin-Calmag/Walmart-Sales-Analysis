@@ -28,7 +28,8 @@ The dataset consists of the following columns:
 After peaking in 2010 (2.29bn), the company sales have continued to peak with significant increase in 2011 (2.45bn), but there is a significant drop in 2012 (2.00bn). Key performance indicators have all shown the year-over-year sales changes. While this decline can be broadly attributed to struggling local economy or high unemployment rates that reduces purchasing power, the following section will explore additional contributing factors and highlight key opportunity areas for improvement.
 
 Below is the overview page from the powerBI dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded here.
-![Overview](https://github.com/user-attachments/assets/fd3f9a4f-b987-40d8-bcca-dc25b283be8b)
+![P1](https://github.com/user-attachments/assets/f07ac416-78bd-4790-a2b8-168cb29dbc5e)
+
 
 # Sales Trends:
 - The company sales showed a seasonal trend where the sales exhibits a noticable spike in December, December 2010 (288.76M) and December 2011 (288.08M) following normal holiday seasonality patterns, driven by 
@@ -56,7 +57,8 @@ Below is the overview page from the powerBI dashboard and more examples are incl
 - With correlation coefficient being 0, CPI showed no significant impact on sales during holiday and non-holiday periods.
   This suggests that CPI alone does not strongly influence sales trends, the lack of correlation with CPI does not mean CPI has no influence, it might act indirectly or in combination with other variables.
   Other variables in the dataset, like fuel price, unemployment rate, or temperature, may have a stronger impact on sales.
-![econ factors](https://github.com/user-attachments/assets/91202829-6e82-4838-b5ee-caf96f3e4594)
+![P4](https://github.com/user-attachments/assets/61b8c492-92fc-4a8d-8956-f9872b38e4bc)
+
 
 
 # Recommendations: 
