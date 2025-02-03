@@ -38,7 +38,8 @@ Below is the overview page from the powerBI dashboard and more examples are incl
   drive high consumer spending.
 - Among the years there was a significant increase in weekly sales between the year 2010 and 2011 with a YoY of 6.96% and a significant decrease in sales in the year 2012 (-18.3%), this could be attributed to the highest 
   unemployment rate. 
-![Sales trend](https://github.com/user-attachments/assets/d5de0428-725d-4ade-9e0b-5bd4a17cae68)
+  ![P2](https://github.com/user-attachments/assets/673ae401-48f3-437a-860d-455a6d989fed)
+
 
 
 # Store Performance:
@@ -47,7 +48,8 @@ Below is the overview page from the powerBI dashboard and more examples are incl
 - Store 33 showed consistent underperformance (37.16M), potentially due to regional economic factors and ineffective promotional strategies that don’t align with customer preferences, or mismatch with local community’s 
   needs and culture.
 - 39.05% of the company's sales are from the top 10 best performing stores and bottom 10 worst performing stores contributes only 7.47%, with the rest of the stores contributing 53.48%.   
-![store performance](https://github.com/user-attachments/assets/16023199-44df-4f9d-a2fd-29419f544a45)
+  ![P3](https://github.com/user-attachments/assets/09ed75dd-5d25-4195-833b-5e91472b00ad)
+
 
 
 # Economic Influences:
