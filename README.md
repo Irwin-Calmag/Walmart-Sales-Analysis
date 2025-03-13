@@ -1,4 +1,5 @@
 # Walmart Sales Analysis
+---
 ## Project Background
 Walmart is an American multinational retail corporation that operates a chain of hypermarkets(supermarkets), discount department stores, and grocery stores in the United States and 23 other countries. It is headquartered in Bentonville, Arkansa.
 The store has significant amount of data on its weekly sales, CPI(consumer price index), unemployment rate, temperature and holidays. This project thoroughly analyzes and synthesizes this data in order to uncover critical insights that will improve Walmart's commercial success.
@@ -71,6 +72,14 @@ Below is the overview page from the powerBI dashboard and more examples are incl
    model to see how they collectively influence sales.
  - Offer online shopping incentives or delivery discounts during extreme weather conditions to compensate for reduced in-store traffic and also invest in improving the online shopping experience (e.g., user-friendly 
    website, mobile app).
+   |Heading1|Heading2|Heading3|
+   |--------|--------|--------|
+   |Content1|Content2|Content3|
+   |Python|SQL|Excel|
+
+   **bold**
+
+   *italic*
 
 
 
