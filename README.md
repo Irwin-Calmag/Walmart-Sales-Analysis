@@ -10,18 +10,10 @@ Insights and recommendations are provided on the following key areas:
 - Economic Influence: Explore relationships between sales, economic indicators(CPI,unemployment), and external factors(temperature,fuel price)during holiday and non-holiday weeks.
 The excel queries utilized to clean, categorize, and prepare data for the dashboard can be found here.
 
-An interactive power bi dashboard can be downloaded [here](https:.....)
+An interactive power bi dashboard can be downloaded [here]
 ### Data Strucrure & Initial Checks 
 Include an ERD (Entity relationship diagram)- can be created using CANVA 
-The dataset consists of the following columns:
--	Store: Unique identifier for each Walmart store.
--	Date: The week ending date for the recorded sales.
--	Weekly_Sales: Total sales for the week at a given store.
--	Holiday_Flag: Binary indicator (1 if the week includes a major holiday, 0 otherwise).
--	Temperature: Average temperature for the week.
--	Fuel_Price: Weekly average fuel price in the region.
--	CPI: Consumer Price Index, reflecting inflation trends.
--	Unemployment: Unemployment rate in the region.
+
 
 ### Executive Summary:
 #### Overview of findings
