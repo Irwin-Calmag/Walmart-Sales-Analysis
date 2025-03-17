@@ -10,16 +10,12 @@ Insights and recommendations are provided on the following key areas:
 - Economic Influence: Explore relationships between sales, economic indicators(CPI,unemployment), and external factors(temperature,fuel price)during holiday and non-holiday weeks.
 The excel queries utilized to clean, categorize, and prepare data for the dashboard can be found here.
 
-An interactive power bi dashboard can be downloaded [here]
-### Data Strucrure & Initial Checks 
-Include an ERD (Entity relationship diagram)- can be created using CANVA 
-
 
 ### Executive Summary:
 #### Overview of findings
 After peaking in 2010 (2.29bn), the company sales have continued to peak with significant increase in 2011 (2.45bn), but there is a significant drop in 2012 (2.00bn). Key performance indicators have all shown the year-over-year sales changes. While this decline can be broadly attributed to struggling local economy or high unemployment rates that reduces purchasing power, the following section will explore additional contributing factors and highlight key opportunity areas for improvement.
 
-Below is the overview page from the powerBI dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded here.
+Below is the overview page from the powerBI dashboard and more examples are included throughout the report.
 ![P1](https://github.com/user-attachments/assets/f07ac416-78bd-4790-a2b8-168cb29dbc5e)
 
 
