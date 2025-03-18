@@ -5,21 +5,31 @@ The store has significant amount of data on its weekly sales, CPI(consumer price
 
 Insights and recommendations are provided on the following key areas:
 
-- Sales Trends Analysis: Evaluation of performance differences between holiday and non-holiday weeks and yearly sales trends.
-- Store Level Performance: Determine the best-performing and worst-performing stores and also top 10 best and worst performing stores. 
-- Economic Influence: Explore relationships between sales, economic indicators(CPI,unemployment), and external factors(temperature,fuel price)during holiday and non-holiday weeks.
+- Sales Trends Analysis: Evaluation of performance differences between holiday and non-holiday weeks and yearly sales trends.4 WHAT?, Y SO?
+- Store Level Performance: Determine the best-performing and worst-performing stores and also top 10 best and worst performing stores. 4 WHAT?, Y SO?
+- Economic Influence: Explore relationships between sales, economic indicators(CPI,unemployment), and external factors(temperature,fuel price)during holiday and non-holiday weeks.4 WHAT?, Y SO?
+  
 The excel queries utilized to clean, categorize, and prepare data for the dashboard can be found here.
 
+### DATA STRUCTURE OVERVIEW
+The analysis used synthetic data representing customers,sales,product categories, and transcaction dates from january 2018 to december 2022.key data points include:
+- Product data (BOLD): specifications and revenue contributions by category(GENERIC)..(Reference table that includes product id, product name and subcategory)
+- sales data: monthly sales and revenue trends(GENERIC)..(each unique record represents a sales transaction with information about the sales dates as well as the sales quantity and product and
+- then do the same for customers schema & calendars schema......
+- LIKE DO FOR EVERY SCHEMA AND WHAT IT REPRESENTS.......
+  ERD -- ITS A MUST
 
 ### Executive Summary:
 #### Overview of findings
-After peaking in 2010 (2.29bn), the company sales have continued to peak with significant increase in 2011 (2.45bn), but there is a significant drop in 2012 (2.00bn). Key performance indicators have all shown the year-over-year sales changes. While this decline can be broadly attributed to struggling local economy or high unemployment rates that reduces purchasing power, the following section will explore additional contributing factors and highlight key opportunity areas for improvement.
+After peaking in 2010 (2.29bn), the company sales have continued to peak with significant increase in 2011 (2.45bn), but there is a significant drop in 2012 (2.00bn).SAY SOMETHING LIKE AN UPWARD TREND IN MONTHLY SALES AND REVENUES - SPECIFY THE MONTHS .Key performance indicators(WHICH ONES - DEEP DIVE)  have all shown the year-over-year sales changes. While this decline can be broadly attributed to struggling local economy and high unemployment rates that reduces purchasing power, the following section will explore additional contributing factors and highlight key opportunity areas for improvement.
+- OVERALL WHAT THE AVERAGE SALES AND REVENUE ARE ACROSS THESE MONTHS, WHAT THE AVERAGE GROWTH RATES ARE AND THE BEST PERFORMING MONTHS AND THE WORST PERFORMING MONTHS,,,THEN,,,THE BEST PERFORMING CATEGORIES ,,,AND THEN,,,THE BEST PERFORMING PROVINCES (say what those values are)
 
 Below is the overview page from the powerBI dashboard and more examples are included throughout the report.
 ![P1](https://github.com/user-attachments/assets/f07ac416-78bd-4790-a2b8-168cb29dbc5e)
 
-
+### INSIGHTS DEEP DIVE
 #### Sales Trends:
+...ACTUAL NUMBERS, ACTUAL GROWTH RATES, THE MONTHS AND THE PRODUCTS THAT DO WELL OR BADLY AND  BE MORE SPECIFIC
 - The company sales showed a seasonal trend where the sales exhibits a noticable spike in December, December 2010 (288.76M) and December 2011 (288.08M) following normal holiday seasonality patterns, driven by 
   increased consumer spending, while the month of January registered the least sales, January 2011 (163.70M) and January 2012 (168.89M) mostly due to consumers cut back on spending after 
   overspending during the holidays. 
@@ -50,6 +60,7 @@ Below is the overview page from the powerBI dashboard and more examples are incl
 
 
 ### Recommendations: 
+...THEY SHOULD BE TIED TO THE INSIGHTS WEVE FOUND- LIST THE PRODUCTS AND GIVE A REASON WHY SO E.G GIVEN THE UPWARD TREND IN ELECTRIC LETTER OPENERS AND BLANK IN THE TECHNOLOGY  CATEGORY CONSIDER RE-ALLOCATING MARKETTING BUDGET FOR THE NEXT 2 YEARS TO FOCUS ON THESE PRODUCTS....NB: what if asked this in an interview(16:01)..can explain it??
 
  Based on the uncovered insights, the following are actionable recommendations to improve sales performance, optimize resources, and align strategies with consumer behavior:
  - Introduce mid-week or weekend sales and also launching of aggressive marketing campaigns during non-holidays to capitalize on increased consumer spending.
@@ -59,6 +70,12 @@ Below is the overview page from the powerBI dashboard and more examples are incl
    model to see how they collectively influence sales.
  - Offer online shopping incentives or delivery discounts during extreme weather conditions to compensate for reduced in-store traffic and also invest in improving the online shopping experience (e.g., user-friendly 
    website, mobile app).
+
+   ### Technical Details:
+   The technical analysis involved:
+   - Excel (Power query and power pivot) : for data extraction, and advanced exploratory data analysis (EDA) via interactive pivot tables and charts.[here]..
+   - SQL: For complex querying and analysis of sales and customer data.[here}...
+   - 
   
 
 
