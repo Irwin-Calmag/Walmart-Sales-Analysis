@@ -2,14 +2,16 @@
 ### Project Background
 Walmart is an American multinational retail corporation that operates a chain of hypermarkets(supermarkets), discount department stores, and grocery stores in the United States and 23 other countries. It is headquartered in Bentonville, Arkansa.
 The store has significant amount of data on its weekly sales, CPI(consumer price index), unemployment rate, temperature and holidays. This project thoroughly analyzes and synthesizes this data in order to uncover critical insights that will improve Walmart's commercial success.
+** IN THIS PROJECT , WE EXPLORED THE MULTFACETED DATA OF ADVENTURE WORKS TO GAIN COMPREHENSIVE INSIGHTS IN OUR SALES DYNAMICS. **THE ULTIMATE GOAL WAS TO HARNESS THESE INSIGHTS TO DRIVE STRATEGIC DECISIONS ABOUT.................FOR..........TEAM(try to make it more relevant) AND OPTIMIZE BUSINESS OPERATIONS.
+The excel queries utilized to clean, categorize, and prepare data for the dashboard can be found here.
 
 Insights and recommendations are provided on the following key areas:
 
 - Sales Trends Analysis: Evaluation of performance differences between holiday and non-holiday weeks and yearly sales trends.4 WHAT?, Y SO?
 - Store Level Performance: Determine the best-performing and worst-performing stores and also top 10 best and worst performing stores. 4 WHAT?, Y SO?
 - Economic Influence: Explore relationships between sales, economic indicators(CPI,unemployment), and external factors(temperature,fuel price)during holiday and non-holiday weeks.4 WHAT?, Y SO?
-  
-The excel queries utilized to clean, categorize, and prepare data for the dashboard can be found here.
+
+
 
 ### DATA STRUCTURE OVERVIEW
 The analysis used synthetic data representing customers,sales,product categories, and transcaction dates from january 2018 to december 2022.key data points include:
@@ -76,7 +78,10 @@ Below is the overview page from the powerBI dashboard and more examples are incl
    - Excel (Power query and power pivot) : for data extraction, and advanced exploratory data analysis (EDA) via interactive pivot tables and charts.[here]..
    - SQL: For complex querying and analysis of sales and customer data.[here}...
    - 
-  
+
+    ### Caveats and Assumptions:
+   ...DATA CLEANING PROCESS AND ANY ASSUMPTIONS YOU MADE ABOUT THE DATA.
+   Data Completeness: A significant portion of revenue(15%) came from 'unclassified' categories, which may reflect product categorization inconsistencies or data entry issues.
 
 
 
