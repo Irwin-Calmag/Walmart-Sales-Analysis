@@ -1,9 +1,8 @@
 ## Walmart Sales Analysis
 ### Project Background
-Walmart is an American multinational retail corporation that operates a chain of hypermarkets(supermarkets), discount department stores, and grocery stores in the United States and 23 other countries. It is headquartered in Bentonville, Arkansa.
-The store has significant amount of data on its weekly sales, CPI(consumer price index), unemployment rate, temperature and holidays. This project thoroughly analyzes and synthesizes this data in order to uncover critical insights that will improve Walmart's commercial success.
-** IN THIS PROJECT , WE EXPLORED THE MULTFACETED DATA OF ADVENTURE WORKS TO GAIN COMPREHENSIVE INSIGHTS IN OUR SALES DYNAMICS. **THE ULTIMATE GOAL WAS TO HARNESS THESE INSIGHTS TO DRIVE STRATEGIC DECISIONS ABOUT.................FOR..........TEAM(try to make it more relevant) AND OPTIMIZE BUSINESS OPERATIONS.
-The excel queries utilized to clean, categorize, and prepare data for the dashboard can be found here.
+Walmart, an American multinational retail corporation that operates a chain of hypermarkets, discount department stores, and grocery stores in the United States and 23 other countries. It's headquartered in Bentonville, Arkansa.
+This project thoroughly analyzes and synthesizes this data in order to uncover critical insights that will improve Walmart's commercial success.
+** IN THIS PROJECT , WE EXPLORED THE MULTFACETED DATA OF ADVENTURE WORKS TO GAIN COMPREHENSIVE INSIGHTS IN OUR SALES DYNAMICS. **THE ULTIMATE GOAL WAS TO HARNESS THESE INSIGHTS TO DRIVE STRATEGIC DECISIONS ABOUT.................inorder to improve performance across sales, products, and marketing teams.
 
 Insights and recommendations are provided on the following key areas:
 
@@ -14,6 +13,7 @@ Insights and recommendations are provided on the following key areas:
 
 
 ### DATA STRUCTURE OVERVIEW
+....The store has significant amount of data on its weekly sales, CPI(consumer price index), unemployment rate, temperature and holidays.
 The analysis used synthetic data representing customers,sales,product categories, and transcaction dates from january 2018 to december 2022.key data points include:
 - Product data (BOLD): specifications and revenue contributions by category(GENERIC)..(Reference table that includes product id, product name and subcategory)
 - sales data: monthly sales and revenue trends(GENERIC)..(each unique record represents a sales transaction with information about the sales dates as well as the sales quantity and product and
@@ -30,7 +30,7 @@ Below is the overview page from the powerBI dashboard and more examples are incl
 ![P1](https://github.com/user-attachments/assets/f07ac416-78bd-4790-a2b8-168cb29dbc5e)
 
 ### INSIGHTS DEEP DIVE
-#### Sales Trends:
+#### Sales Trends and Growth Rates:
 ...ACTUAL NUMBERS, ACTUAL GROWTH RATES, THE MONTHS AND THE PRODUCTS THAT DO WELL OR BADLY AND  BE MORE SPECIFIC
 - The company sales showed a seasonal trend where the sales exhibits a noticable spike in December, December 2010 (288.76M) and December 2011 (288.08M) following normal holiday seasonality patterns, driven by 
   increased consumer spending, while the month of January registered the least sales, January 2011 (163.70M) and January 2012 (168.89M) mostly due to consumers cut back on spending after 
@@ -43,7 +43,7 @@ Below is the overview page from the powerBI dashboard and more examples are incl
 
 
 
-#### Store Performance:
+#### Key Store Performance:
 - Over the period of these three years store 20 executed the highest average weekly sales (301.40M), this could be attributed to its  easy accessibility like being located near major roads, highways, or public transport 
   hubs, which increases visits.
 - Store 33 showed consistent underperformance (37.16M), potentially due to regional economic factors and ineffective promotional strategies that don’t align with customer preferences, or mismatch with local community’s 
