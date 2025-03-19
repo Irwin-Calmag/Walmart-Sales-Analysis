@@ -1,12 +1,12 @@
 ## Walmart Sales Analysis
 ### Project Background
 Walmart, an American multinational retail corporation that operates a chain of hypermarkets, discount department stores, and grocery stores in the United States and 23 other countries. It's headquartered in Bentonville, Arkansa.
-This project thoroughly analyzes and synthesizes this data in order to uncover critical insights that will improve Walmart's commercial success.
-** IN THIS PROJECT , WE EXPLORED THE MULTFACETED DATA OF ADVENTURE WORKS TO GAIN COMPREHENSIVE INSIGHTS IN OUR SALES DYNAMICS. **THE ULTIMATE GOAL WAS TO HARNESS THESE INSIGHTS TO DRIVE STRATEGIC DECISIONS ABOUT.................inorder to improve performance across sales, products, and marketing teams.
+This project thoroughly analyzes and synthesizes this multifaceted data in order to uncover critical insights that will improve performance across sales, stores, and marketing teams.
 
 Insights and recommendations are provided on the following key areas:
 
 - Sales Trends Analysis: Evaluation of performance differences between holiday and non-holiday weeks and yearly sales trends.4 WHAT?, Y SO?
+   - This is useful in the prediction of future sales performance and determination of how promotions, discounts, and seasonal factors impact revenue.
 - Store Level Performance: Determine the best-performing and worst-performing stores and also top 10 best and worst performing stores. 4 WHAT?, Y SO?
 - Economic Influence: Explore relationships between sales, economic indicators(CPI,unemployment), and external factors(temperature,fuel price)during holiday and non-holiday weeks.4 WHAT?, Y SO?
 
