@@ -8,23 +8,21 @@ Insights and recommendations are provided on the following key areas:
 - Sales Trends Analysis: Evaluation of performance differences between holiday and non-holiday weeks and yearly sales trends.4 WHAT?, Y SO?
    - This is useful in the prediction of future sales performance and determination of how promotions, discounts, and seasonal factors impact revenue.
 - Store Level Performance: Determine the best-performing and worst-performing stores and also top 10 best and worst performing stores. 4 WHAT?, Y SO?
+  -  Ensures top-performing stores get enough stock to meet demand and through benchmarking worst performing stores can boost their profitability by identifying and replicating successful store strategies. 
 - Economic Influence: Explore relationships between sales, economic indicators(CPI,unemployment), and external factors(temperature,fuel price)during holiday and non-holiday weeks.4 WHAT?, Y SO?
+  - Boosts sales strategies by aligning with economic conditions eg If unemployment is high, retailers might focus on budget-friendly products to attract cost-conscious buyers.
 
 
 
 ### DATA STRUCTURE OVERVIEW
 ....The store has significant amount of data on its weekly sales, CPI(consumer price index), unemployment rate, temperature and holidays.
-The analysis used synthetic data representing customers,sales,product categories, and transcaction dates from january 2018 to december 2022.key data points include:
-- Product data (BOLD): specifications and revenue contributions by category(GENERIC)..(Reference table that includes product id, product name and subcategory)
-- sales data: monthly sales and revenue trends(GENERIC)..(each unique record represents a sales transaction with information about the sales dates as well as the sales quantity and product and
-- then do the same for customers schema & calendars schema......
-- LIKE DO FOR EVERY SCHEMA AND WHAT IT REPRESENTS.......
+ILL JUST DO AN ERD ONLY
   ERD -- ITS A MUST
 
 ### Executive Summary:
 #### Overview of findings
-After peaking in 2010 (2.29bn), the company sales have continued to peak with significant increase in 2011 (2.45bn), but there is a significant drop in 2012 (2.00bn).SAY SOMETHING LIKE AN UPWARD TREND IN MONTHLY SALES AND REVENUES - SPECIFY THE MONTHS .Key performance indicators(WHICH ONES - DEEP DIVE)  have all shown the year-over-year sales changes. While this decline can be broadly attributed to struggling local economy and high unemployment rates that reduces purchasing power, the following section will explore additional contributing factors and highlight key opportunity areas for improvement.
-- OVERALL WHAT THE AVERAGE SALES AND REVENUE ARE ACROSS THESE MONTHS, WHAT THE AVERAGE GROWTH RATES ARE AND THE BEST PERFORMING MONTHS AND THE WORST PERFORMING MONTHS,,,THEN,,,THE BEST PERFORMING CATEGORIES ,,,AND THEN,,,THE BEST PERFORMING PROVINCES (say what those values are)
+Walmart's sales analysis of 6434 records from 2010 to 2012 reveals annual revenue stabilizing at $2.29 billion in 2010, with July (232.58m) and December (288.76m) being the highest performing months, while March (181.92m) recorded the lowest sales.The company experienced a 6.96% year-over-year growth in 2011, but sales saw a significant decline of 18.30% in 2012. While this decline can be broadly attributed to struggling local economy and high unemployment rates that reduces purchasing power, Walmart can benefit from expanding top performing stores, optimizing bundling, and enhancing loyalty programs to increase customer lifetime value. Additionally, with only 7.47% of the company's sales coming from the bottom 10 performing stores, targeted growth along with enablization of dynamic pricing strategies to maximize profits, will strengthen their market position and drive sustainable growth.
+
 
 Below is the overview page from the powerBI dashboard and more examples are included throughout the report.
 ![P1](https://github.com/user-attachments/assets/f07ac416-78bd-4790-a2b8-168cb29dbc5e)
