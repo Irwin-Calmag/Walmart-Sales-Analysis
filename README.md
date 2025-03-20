@@ -29,7 +29,6 @@ Below is the overview page from the powerBI dashboard and more examples are incl
 
 ### INSIGHTS DEEP DIVE
 #### Sales Trends and Growth Rates:
-...ACTUAL NUMBERS, ACTUAL GROWTH RATES, THE MONTHS AND THE PRODUCTS THAT DO WELL OR BADLY AND  BE MORE SPECIFIC
 - The company sales showed a seasonal trend where the sales exhibits a noticable spike in December, December 2010 (288.76M) and December 2011 (288.08M) following normal holiday seasonality patterns, driven by 
   increased consumer spending, while the month of January registered the least sales, January 2011 (163.70M) and January 2012 (168.89M) mostly due to consumers cut back on spending after 
   overspending during the holidays. 
