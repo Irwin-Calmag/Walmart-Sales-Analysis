@@ -32,43 +32,47 @@ Below is the overview page from the powerBI dashboard and more examples are incl
 - The company sales showed a seasonal trend where the sales exhibits a noticable spike in December, December 2010 (288.76M) and December 2011 (288.08M) following normal holiday seasonality patterns, driven by 
   increased consumer spending, while the month of January registered the least sales, January 2011 (163.70M) and January 2012 (168.89M) mostly due to consumers cut back on spending after 
   overspending during the holidays. 
-- Beginning in February of 2010 there was an alternating increase and decrease trend of weekly sales with September (177.27m) being the month with the least sales of the year, mostly due to lack of major holidays that 
-  drive high consumer spending.
-- Among the years there was a significant increase in weekly sales between the year 2010 and 2011 with a YoY of 6.96% and a significant decrease in sales in the year 2012 (-18.3%), this could be attributed to the highest 
-  unemployment rate. 
+- Starting in February 2010, weekly sales followed an alternating pattern of increases and decreases, with September ($177.27M) recording the lowest sales of the year, primarily due to the absence of major holidays that 
+  typically drive higher consumer spending.
+- Between 2010 and 2011, weekly sales saw a significant increase, with a year-over-year growth of 6.96%, while 2012 experienced a sharp decline of 18.3%. This downturn could be attributed to the high unemployment 
+  rate, which impacted consumer spending.
   ![P2](https://github.com/user-attachments/assets/673ae401-48f3-437a-860d-455a6d989fed)
 
 
 
 #### Key Store Performance:
-- Over the period of these three years store 20 executed the highest average weekly sales (301.40M), this could be attributed to its  easy accessibility like being located near major roads, highways, or public transport 
-  hubs, which increases visits.
+- Over the three-year period, Store 20 recorded the highest average weekly sales ($301.40M), likely due to its easy accessibility, such as being located near major roads, highways, or public transport hubs, which drive 
+  higher foot traffic.
 - Store 33 showed consistent underperformance (37.16M), potentially due to regional economic factors and ineffective promotional strategies that don’t align with customer preferences, or mismatch with local community’s 
   needs and culture.
-- 39.05% of the company's sales are from the top 10 best performing stores and bottom 10 worst performing stores contributes only 7.47%, with the rest of the stores contributing 53.48%.   
+- The top 10 best-performing stores account for 39.05% of total sales, while the bottom 10 worst-performing stores contribute only 7.47%, with the remaining 53.48% coming from all other stores.
+- The unemployment rate during the period ranged from a minimum of 3.879% to a maximum of 14.313%.
+  
   ![P3](https://github.com/user-attachments/assets/09ed75dd-5d25-4195-833b-5e91472b00ad)
 
 
 
 #### Economic Influences:
-- With correlation coefficient being 0, CPI showed no significant impact on sales during holiday and non-holiday periods.
-  This suggests that CPI alone does not strongly influence sales trends, the lack of correlation with CPI does not mean CPI has no influence, it might act indirectly or in combination with other variables.
+- With correlation coefficient being 0, CPI showed no significant impact on sales during holiday and non-holiday periods,
+  this suggests that CPI alone does not strongly influence sales trends.
+- The lack of correlation with CPI does not mean CPI has no influence, it might act indirectly or in combination with other variables.
   Other variables in the dataset, like fuel price, unemployment rate, or temperature, may have a stronger impact on sales.
-![P4](https://github.com/user-attachments/assets/61b8c492-92fc-4a8d-8956-f9872b38e4bc)
 
 
 
 ### Recommendations: 
-...THEY SHOULD BE TIED TO THE INSIGHTS WEVE FOUND- LIST THE PRODUCTS AND GIVE A REASON WHY SO E.G GIVEN THE UPWARD TREND IN ELECTRIC LETTER OPENERS AND BLANK IN THE TECHNOLOGY  CATEGORY CONSIDER RE-ALLOCATING MARKETTING BUDGET FOR THE NEXT 2 YEARS TO FOCUS ON THESE PRODUCTS....NB: what if asked this in an interview(16:01)..can explain it??
-
- Based on the uncovered insights, the following are actionable recommendations to improve sales performance, optimize resources, and align strategies with consumer behavior:
- - Introduce mid-week or weekend sales and also launching of aggressive marketing campaigns during non-holidays to capitalize on increased consumer spending.
+Based on the uncovered insights, the following are actionable recommendations to improve sales performance, optimize resources, and align strategies with consumer behavior:
+ 1. Enhance Customer Engagement
+  - Introduce mid-week or weekend sales and also launching of aggressive marketing campaigns during non-holidays to capitalize on increased consumer spending.
+  - Offer online shopping incentives or delivery discounts during extreme weather conditions to compensate for reduced in-store traffic and also invest in improving the online shopping experience (e.g., user-friendly 
+    website, mobile app).
+ 2. Strengthen Market Presence
  - With store 33 being the worst performing stores, there can be an introduction of attractive deals like location-specific promotions or loyalty programs to boost foot traffic and increase customer retention in the 
    bottom 10 underperforming stores.
+ 3. 
  - Despite a correlation of zero between CPI and holiday and non-holiday sales a multivariate analysis can be done including all factors (CPI, fuel price, unemployment rate, temperature) as predictors in a regression 
    model to see how they collectively influence sales.
- - Offer online shopping incentives or delivery discounts during extreme weather conditions to compensate for reduced in-store traffic and also invest in improving the online shopping experience (e.g., user-friendly 
-   website, mobile app).
+   
 
    ### Technical Details:
    The technical analysis involved:
