@@ -5,11 +5,11 @@ This project thoroughly analyzes and synthesizes this multifaceted data in order
 
 Insights and recommendations are provided on the following key areas:
 
-- Sales Trends Analysis: Evaluation of performance differences between holiday and non-holiday weeks and yearly sales trends.4 WHAT?, Y SO?
+- Sales Trends Analysis: Evaluation of performance differences between holiday and non-holiday weeks and yearly sales trends.
    - This is useful in the prediction of future sales performance and determination of how promotions, discounts, and seasonal factors impact revenue.
-- Store Level Performance: Determine the best-performing and worst-performing stores and also top 10 best and worst performing stores. 4 WHAT?, Y SO?
+- Store Level Performance: Determine the best-performing and worst-performing stores and also top 10 best and worst performing stores.
   -  Ensures top-performing stores get enough stock to meet demand and through benchmarking worst performing stores can boost their profitability by identifying and replicating successful store strategies. 
-- Economic Influence: Explore relationships between sales, economic indicators(CPI,unemployment), and external factors(temperature,fuel price)during holiday and non-holiday weeks.4 WHAT?, Y SO?
+- Economic Influence: Explore relationships between sales, economic indicators(CPI,unemployment), and external factors(temperature,fuel price)during holiday and non-holiday weeks.
   - Boosts sales strategies by aligning with economic conditions eg If unemployment is high, retailers might focus on budget-friendly products to attract cost-conscious buyers.
 
 
@@ -62,27 +62,25 @@ Below is the overview page from the powerBI dashboard and more examples are incl
 
 ### Recommendations: 
 Based on the uncovered insights, the following are actionable recommendations to improve sales performance, optimize resources, and align strategies with consumer behavior:
- 1. Enhance Customer Engagement
-  - Introduce mid-week or weekend sales and also launching of aggressive marketing campaigns during non-holidays to capitalize on increased consumer spending.
-  - Offer online shopping incentives or delivery discounts during extreme weather conditions to compensate for reduced in-store traffic and also invest in improving the online shopping experience (e.g., user-friendly 
-    website, mobile app).
- 2. Strengthen Market Presence
- - With store 33 being the worst performing stores, there can be an introduction of attractive deals like location-specific promotions or loyalty programs to boost foot traffic and increase customer retention in the 
-   bottom 10 underperforming stores.
- 3. 
- - Despite a correlation of zero between CPI and holiday and non-holiday sales a multivariate analysis can be done including all factors (CPI, fuel price, unemployment rate, temperature) as predictors in a regression 
-   model to see how they collectively influence sales.
+ 1. Strategic Sales Optimization
+    - Introduce mid-week or weekend sales and also launching of aggressive marketing campaigns during non-holidays to capitalize on increased consumer spending.
+    - Offer online shopping incentives or delivery discounts during extreme weather conditions to compensate for reduced in-store traffic and also invest in improving the online shopping experience (e.g., user-friendly 
+      website, mobile app).
+ 2. Improve Store Accessibility & Layout 
+    - With store 33 being the worst performing stores, there can be an introduction of attractive deals like location-specific promotions or loyalty programs to boost foot traffic and increase customer retention in the 
+      bottom 10 underperforming stores.
+ 3. Comprehensive Sales Analysis 
+    - Despite a correlation of zero between CPI and holiday and non-holiday sales a multivariate analysis can be done including all factors (CPI, fuel price, unemployment rate, temperature) as predictors in a regression 
+      model to see how they collectively influence sales.
    
 
-   ### Technical Details:
-   The technical analysis involved:
-   - Excel (Power query and power pivot) : for data extraction, and advanced exploratory data analysis (EDA) via interactive pivot tables and charts.[here]..
-   - SQL: For complex querying and analysis of sales and customer data.[here}...
-   - 
 
-    ### Caveats and Assumptions:
-   ...DATA CLEANING PROCESS AND ANY ASSUMPTIONS YOU MADE ABOUT THE DATA.
-   Data Completeness: A significant portion of revenue(15%) came from 'unclassified' categories, which may reflect product categorization inconsistencies or data entry issues.
+   ### Assumptions and Caveats:
+   - Data Completeness: Missing data for January 2010 and November-December 2012 may impact annual revenue comparisons, introduce YoY inaccuracies, or indicate data entry issues.
+   
+   - Standardized assumption in Data: Each 'Store' operates in a unique location, indicating lack of accountability for regional economic differences that may impact sales performance as the analysis assumes 
+     uniform market conditions across all Walmart stores.
+
 
 
 
