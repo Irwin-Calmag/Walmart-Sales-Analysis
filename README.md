@@ -17,7 +17,7 @@ Insights and recommendations are provided on the following key areas:
 ### DATA STRUCTURE OVERVIEW
 ....The store has significant amount of data on its weekly sales, CPI(consumer price index), unemployment rate, temperature and holidays.
 ILL JUST DO AN ERD ONLY
-  ERD -- ITS A MUST
+  ERD -- ITS A MUST- nothing else is needed
 
 ### Executive Summary:
 #### Overview of findings
