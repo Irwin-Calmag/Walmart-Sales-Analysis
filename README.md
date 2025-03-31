@@ -15,9 +15,10 @@ Insights and recommendations are provided on the following key areas:
 
 
 ### DATA STRUCTURE OVERVIEW
-....The store has significant amount of data on its weekly sales, CPI(consumer price index), unemployment rate, temperature and holidays.
-ILL JUST DO AN ERD ONLY
-  ERD -- ITS A MUST- nothing else is needed
+The store has significant amount of data on its weekly sales, CPI(consumer price index), unemployment rate, temperature and holidays.
+
+![ERD Walmart](https://github.com/user-attachments/assets/8654e899-5eb0-4b45-a316-cd883b9f5eb4)
+
 
 ### Executive Summary:
 #### Overview of findings
