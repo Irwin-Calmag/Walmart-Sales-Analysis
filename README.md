@@ -63,24 +63,27 @@ Below is the overview page from the powerBI dashboard and more examples are incl
 
 ### Recommendations: 
 Based on the uncovered insights, the following are actionable recommendations to improve sales performance, optimize resources, and align strategies with consumer behavior:
- 1. *Strategic Sales Optimization*
-    - Consider introducing mid-week and weekend sales and also launching of aggressive marketing campaigns during non-holidays to capitalize on increased consumer spending.
-    - Offer online shopping incentives and delivery discounts during extreme weather conditions to compensate for reduced in-store traffic and also invest in improving the online shopping experience (e.g., user-friendly 
-      website, mobile app).
- 2. *Improve Store Accessibility and Layout* 
-    - With store 33 being the worst performing stores, there can be an introduction of attractive deals like location-specific promotions and loyalty programs to boost foot traffic and increase customer retention in the 
-      bottom 10 underperforming stores.
- 3. *Comprehensive Sales Analysis* 
-    - Despite a correlation of zero between CPI and holiday and non-holiday sales a multivariate analysis can be done including all factors (CPI, fuel price, unemployment rate, temperature) as predictors in a regression 
-      model to see how they collectively influence sales.
+1. *Strategic Sales Optimization*
+   
+- Consider introducing mid-week and weekend sales and also launching of aggressive marketing campaigns during non-holidays to capitalize on increased consumer spending.
+- Offer online shopping incentives and delivery discounts during extreme weather conditions to compensate for reduced in-store traffic and also invest in improving the online shopping experience (e.g., user-friendly 
+  website, mobile app).
+2. *Improve Store Accessibility and Layout*
+   
+- With store 33 being the worst performing stores, there can be an introduction of attractive deals like location-specific promotions and loyalty programs to boost foot traffic and increase customer retention in the 
+  bottom 10 underperforming stores.
+3. *Comprehensive Sales Analysis*
+   
+- Despite a correlation of zero between CPI and holiday and non-holiday sales a multivariate analysis can be done including all factors (CPI, fuel price, unemployment rate, temperature) as predictors in a regression 
+  model to see how they collectively influence sales.
    
 
 
-   ### Assumptions and Caveats:
-   - Data Completeness: Missing data for January 2010 and November-December 2012 may impact annual revenue comparisons, introduce YoY inaccuracies, or indicate data entry issues.
+### Assumptions and Caveats:
+- **Data Completeness**: Missing data for January 2010 and November-December 2012 may impact annual revenue comparisons, introduce YoY inaccuracies, or indicate data entry issues.
    
-   - Standardized assumption in Data: Each 'Store' operates in a unique location, indicating lack of accountability for regional economic differences that may impact sales performance as the analysis assumes 
-     uniform market conditions across all Walmart stores.
+- **Standardized assumption in Data**: Each 'Store' operates in a unique location, indicating lack of accountability for regional economic differences that may impact sales performance as the analysis assumes 
+  uniform market conditions across all Walmart stores.
 
 
 
