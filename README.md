@@ -5,12 +5,14 @@ This project thoroughly analyzes and synthesizes this multifaceted data in order
 
 Insights and recommendations are provided on the following key areas:
 
-- *Sales Trends Analysis*: Evaluation of performance differences between holiday and non-holiday weeks and yearly sales trends.
-   - This is useful in the prediction of future sales performance and determination of how promotions, discounts, and seasonal factors impact revenue.
-- *Store Level Performance*: Determine the best-performing and worst-performing stores and also top 10 best and worst performing stores.
-  -  Ensures top-performing stores get enough stock to meet demand and through benchmarking worst performing stores can boost their profitability by identifying and replicating successful store strategies. 
-- *Economic Influence*: Explore relationships between sales, economic indicators(CPI,unemployment), and external factors(temperature,fuel price)during holiday and non-holiday weeks.
-  - Boosts sales strategies by aligning with economic conditions eg If unemployment is high, retailers might focus on budget-friendly products to attract cost-conscious buyers.
+1. *Sales Trends Analysis*: Evaluation of performance differences between holiday and non-holiday weeks and yearly sales trends. This is useful in the prediction of future sales performance and determination of how 
+    promotions, discounts, and seasonal factors impact revenue.
+   
+2. *Store Level Performance*: Determine the best-performing and worst-performing stores and also top 10 best and worst performing stores. Ensures top-performing stores get enough stock to meet demand and through 
+    benchmarking worst performing stores can boost their profitability by identifying and replicating successful store strategies.
+   
+3. *Economic Influence*: Explore relationships between sales, economic indicators(CPI,unemployment), and external factors(temperature,fuel price)during holiday and non-holiday weeks. Boosts sales strategies by aligning 
+    with economic conditions eg If unemployment is high, retailers might focus on budget-friendly products to attract cost-conscious buyers.
 
 
 
